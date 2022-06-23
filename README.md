@@ -7,6 +7,7 @@
 <li>useContext, useReducer,useProvider</li>
 <li>Sass</li>
 <li>BEM</li>
+<li>JSON SERVER</li>
 
 # Instalación
 
