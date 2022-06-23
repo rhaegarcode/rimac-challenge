@@ -8,8 +8,6 @@
 
 [![arma-phone.png](https://i.postimg.cc/W1XtS2qG/arma-phone.png)](https://postimg.cc/yD3V8CPx)
 
-[![arma-desktop.png](https://i.postimg.cc/m2WcgpGH/arma-desktop.png)](https://postimg.cc/NLbGN4Fs)
-
 # Vistas del Bienvenidos version Desktop y Movil
 
 [![welcome-desktop.png](https://i.postimg.cc/FH97jfzF/welcome-desktop.png)](https://postimg.cc/ykb1K802)
