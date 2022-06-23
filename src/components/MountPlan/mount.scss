@@ -1,0 +1,65 @@
+.mount__plan {
+  padding-top: 230px;
+  .mount__content {
+    p {
+      font-size: 12px;
+      color: #494F66;
+      text-transform: uppercase;
+      font-weight: 700;
+      margin-bottom: 0;
+    }
+    h4 {
+      margin-top: 10px;
+      font-size: 28px;
+      color: #494F66;
+      margin-bottom: 6px;
+    }
+    span {
+      font-size: 12px;
+      color: #676F8F;
+    }
+    .separator {
+      max-width: 220px;
+      border: 1px solid #E4E8F7;
+      margin-top: 20px;
+    }
+    .includes {
+      p {
+        text-transform: capitalize;
+        color: #494F66;
+        font-size: 16px;
+        font-weight: 400;
+      }
+      div {
+        ul {
+          list-style: none;
+          margin-left: 0;
+          padding-left: 0;
+          li {
+            margin-top: 10px;
+            span {
+              margin-left: 20px;
+              color: #676F8F;
+              font-size: 14px;
+            }
+          }
+        }
+      }
+    }
+    .form__button {
+      margin-top: 50px;
+      button {
+        background: #EF3340;
+        border-radius: 8px;
+        padding: 15px 75px;
+        color: #FFF;
+        border: none;
+        font-size: 14px;
+        text-transform: uppercase;
+        font-weight: 700;
+        font-family: 'Lato';
+        cursor: pointer;
+      }
+    }
+  }
+}

@@ -1,0 +1,43 @@
+.steps__plan {
+  background: #F7F8FC;
+  height: 100%;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  padding: 80px 130px 0 130px;
+  .step__one, .step__two {
+    display: flex;
+    margin-top: 40px;
+    align-items: center;
+    p {
+      margin: 0;
+      color: #C5CBE0;
+      font-size: 12px;
+    }
+    span {
+      border: 1px solid #C5CBE0;
+      border-radius: 50%;
+      padding: 4px 8px;
+      margin-right: 10px;
+      color: #C5CBE0;
+      font-size: 12px;
+    }
+  }
+  .step__two {
+    span {
+      background: #6F7DFF;
+      color: #fff;
+    }
+    p {
+      color: #494F66;
+    }
+  }
+  .dashed {
+    border: 1px dashed #E4E8F7;
+    transform: rotate(-90deg);
+    width: 40px;
+    position: relative;
+    top: 20px;
+    left: -8px;
+  }
+}

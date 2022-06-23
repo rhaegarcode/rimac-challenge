@@ -1,9 +1,9 @@
-export interface Cobertura {
+export interface Coverage {
     id: string,
     type: string,
-    caso: string,
-    precio: number,
-    cobertura: string
+    description: string,
+    price: number,
+    name: string
 }
 
 export interface Client {
@@ -11,4 +11,17 @@ export interface Client {
     dni: string,
     license: string,
     phone: string
+}
+
+export interface Detail {
+    model: string,
+    total: number,
+    brand: string,
+    year: string
+}
+
+export interface RimacState {
+    client: Client;
+    coverage: Coverage[];
+    detail: Detail
 }
